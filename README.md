@@ -4,7 +4,7 @@ _____________
 Based on [Anool Mahidharia](https://hackaday.com/2017/05/18/kicad-best-practises-library-management/) article about KiCAD library management I created this folder structure as stated below:
 
 project_name
-  ↳3d_models     // .STEP and .WRL model files for all footprints
+  ↳3d_models     // .STEP and .WRL model files for all footprints<b>
   ↳datasheets    // data sheets for components used
   ↳gerber        // final production files
   ↳images        // SVG images and 3D board renders
